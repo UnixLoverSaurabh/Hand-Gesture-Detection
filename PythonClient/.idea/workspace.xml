@@ -5,27 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74d3dc78-2416-446f-88d5-465b48583444" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../JavaServer/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaServer/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaServer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaServer/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaServer/out/production/JavaServer/sample/Controller$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaServer/out/production/JavaServer/sample/Controller$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaServer/out/production/JavaServer/sample/Controller$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaServer/out/production/JavaServer/sample/Controller$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaServer/out/production/JavaServer/sample/Controller$3$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaServer/out/production/JavaServer/sample/Controller$3$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaServer/out/production/JavaServer/sample/Controller$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaServer/out/production/JavaServer/sample/Controller$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaServer/out/production/JavaServer/sample/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaServer/out/production/JavaServer/sample/Controller.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaServer/out/production/JavaServer/sample/HandGesture.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaServer/out/production/JavaServer/sample/HandGesture.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaServer/out/production/JavaServer/sample/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaServer/out/production/JavaServer/sample/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaServer/out/production/JavaServer/sample/WebCamInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaServer/out/production/JavaServer/sample/WebCamInfo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaServer/src/sample/HandGesture.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaServer/src/sample/HandGesture.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataLoader.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataLoader.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HandDetector.py" beforeDir="false" afterPath="$PROJECT_DIR$/HandDetector.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HandNetMaker.py" beforeDir="false" afterPath="$PROJECT_DIR$/HandNetMaker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NetLoader.py" beforeDir="false" afterPath="$PROJECT_DIR$/NetLoader.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hand_detection_model_3.json" beforeDir="false" afterPath="$PROJECT_DIR$/hand_detection_model_3.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hand_detection_weights_3.h5" beforeDir="false" afterPath="$PROJECT_DIR$/hand_detection_weights_3.h5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model.png" beforeDir="false" afterPath="$PROJECT_DIR$/model.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../real_time.png" beforeDir="false" afterPath="$PROJECT_DIR$/../real_time.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaServer/JavaServer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaServer/JavaServer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasySocket.py" beforeDir="false" afterPath="$PROJECT_DIR$/EasySocket.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HandNetMaker.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="52" column="30" selection-start-line="52" selection-start-column="30" selection-end-line="52" selection-end-column="30" />
+            <state relative-caret-position="300">
+              <caret line="26" column="106" selection-start-line="26" selection-start-column="106" selection-end-line="26" selection-end-column="106" />
               <folding>
                 <element signature="e#177#224#0" expanded="true" />
               </folding>
@@ -55,17 +38,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/EasySocket.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+            <state relative-caret-position="395">
+              <caret line="81" column="15" selection-start-line="81" selection-start-column="15" selection-end-line="81" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HandDetector.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="17" column="63" lean-forward="true" selection-start-line="17" selection-start-column="63" selection-end-line="17" selection-end-column="63" />
+            <state relative-caret-position="195">
+              <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
               <folding>
                 <element signature="e#78#135#0" expanded="true" />
               </folding>
@@ -76,7 +59,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DataLoader.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
+            <state relative-caret-position="-430">
               <caret line="113" column="18" selection-start-line="113" selection-start-column="8" selection-end-line="113" selection-end-column="18" />
               <folding>
                 <element signature="e#117#138#0" expanded="true" />
@@ -88,8 +71,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/NetLoader.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
-              <caret line="112" selection-start-line="112" selection-end-line="112" />
+            <state relative-caret-position="330">
+              <caret line="22" column="40" lean-forward="true" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
               <folding>
                 <element signature="e#182#222#0" expanded="true" />
               </folding>
@@ -114,6 +97,7 @@
         <option value="$PROJECT_DIR$/HandNetMaker.py" />
         <option value="$PROJECT_DIR$/DataLoader.py" />
         <option value="$PROJECT_DIR$/HandDetector.py" />
+        <option value="$PROJECT_DIR$/EasySocket.py" />
       </list>
     </option>
   </component>
@@ -228,14 +212,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1366" height="743" extended-state="6" />
+    <frame x="0" y="27" width="1366" height="741" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.24111867" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.95114005" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.9504132" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -256,16 +241,26 @@
     <entry file="file://$PROJECT_DIR$/hand_detection_model_3.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/HandDetector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+          <folding>
+            <element signature="e#78#135#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/EasySocket.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+        <state relative-caret-position="395">
+          <caret line="81" column="15" selection-start-line="81" selection-start-column="15" selection-end-line="81" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DataLoader.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
+        <state relative-caret-position="-430">
           <caret line="113" column="18" selection-start-line="113" selection-start-column="8" selection-end-line="113" selection-end-column="18" />
           <folding>
             <element signature="e#117#138#0" expanded="true" />
@@ -273,32 +268,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HandNetMaker.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="52" column="30" selection-start-line="52" selection-start-column="30" selection-end-line="52" selection-end-column="30" />
-          <folding>
-            <element signature="e#177#224#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/NetLoader.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="112" selection-start-line="112" selection-end-line="112" />
+        <state relative-caret-position="330">
+          <caret line="22" column="40" lean-forward="true" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
           <folding>
             <element signature="e#182#222#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HandDetector.py">
+    <entry file="file://$PROJECT_DIR$/HandNetMaker.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="17" column="63" lean-forward="true" selection-start-line="17" selection-start-column="63" selection-end-line="17" selection-end-column="63" />
+        <state relative-caret-position="300">
+          <caret line="26" column="106" selection-start-line="26" selection-start-column="106" selection-end-line="26" selection-end-column="106" />
           <folding>
-            <element signature="e#78#135#0" expanded="true" />
+            <element signature="e#177#224#0" expanded="true" />
           </folding>
         </state>
       </provider>
